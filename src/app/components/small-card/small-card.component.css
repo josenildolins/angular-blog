@@ -19,6 +19,13 @@
   align-items: center;
 }
 
+
+.small-card__title > p {
+  font-size: 10px;
+}
+
+
+
 .container__small-card-separator {
   margin-top: 10px;
 }
